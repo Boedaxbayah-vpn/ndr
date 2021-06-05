@@ -1,0 +1,1 @@
+apt update -y && apt upgrade -y && apt install python -y && apt install python2 -y && apt install php -y && apt install nano -y && pip install --upgrade pip && pip install cloudscraper hjson colorama requests bs4
